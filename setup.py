@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='halfbakery',
+    name='hthworldwide',
     version='0.0.1',
-    description='Halfbakery Communal Database controller.',
-    url='https://gitlab.com/wefindx/halfbakery',
+    description='HTH World Wide Medical Facilities Database controller.',
+    url='https://gitlab.com/wefindx/hthworldwide',
     author='Mindey',
     author_email='mindey@qq.com',
     license='ASK FOR PERMISSIONS',
